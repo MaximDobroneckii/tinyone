@@ -25,7 +25,7 @@
   justify-content: space-around;
   align-items: center;
   width: 95%;
-  max-width: 1200px;
+  max-width: 1300px;
   background: #fcdb00;
   overflow: hidden;
   margin: 0 auto;
@@ -165,7 +165,7 @@ h1 {
 
 .feutures-section__container {
   background-color: #ffffff;
-  max-width: 1200px;
+  max-width: 1150px;
   margin: 0 auto;
 }
 
@@ -344,6 +344,7 @@ form input[type=email] {
   letter-spacing: normal;
   line-height: 20px;
   cursor: pointer;
+  padding-left: 40px;
 }
 
 .footer-container__contacts a {
@@ -356,6 +357,7 @@ form input[type=email] {
   line-height: 20px;
   cursor: pointer;
   margin-top: 10px;
+  padding-left: 40px;
 }
 
 li {
@@ -373,5 +375,5 @@ li {
 }
 
 .right {
-  margin-right: 180px;
+  margin-right: 150px;
 }
